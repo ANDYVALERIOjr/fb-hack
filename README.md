@@ -2,20 +2,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 • apt install update
 
 • apt install upgrade
@@ -41,7 +27,7 @@
 • pip2 install requests
 
 
-
+________________________________________________________________________
 
 • git clone --depth=1 https://github.com/ANDYVALERIOjr/fb-hack.git
 
